@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A meticulous backend Java Developer
 --------------
 
+Programming is a difficult process. Often times you have to sit for hours debugging or solving a problem. To me, there is nothing that beats the feeling of finally solving 'that' problem. And in solving that problem, I inspire myself to move on to the next one.
+
 * 🌍  I'm based in Kosova
 * 💻  I love writing code and learn anythings about it
 * ✉️  You can contact me at [sahit.berisha11@gmail.com](mailto:sahit.berisha11@gmail.com)
@@ -35,7 +37,13 @@ A meticulous backend Java Developer
 </p>
 
 
-### Socials
+### Find me on 👇
 
-<p align="left"> <a href="https://www.github.com/SahitBerisha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sahitberisha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sahitBerisha11" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  
+  <a href="https://www.github.com/SahitBerisha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
+  <a href="https://www.linkedin.com/in/sahitberisha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://www.twitter.com/sahitBerisha11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+
+</p>
 
