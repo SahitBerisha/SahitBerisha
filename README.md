@@ -6,9 +6,11 @@ A meticulous backend Java Developer
 
 Programming is a difficult process. Often times you have to sit for hours debugging or solving a problem. To me, there is nothing that beats the feeling of finally solving 'that' problem. And in solving that problem, I inspire myself to move on to the next one.
 
-* 🌍  I'm based in Kosova
-* 💻  I love writing code and learn anythings about it
-* ✉️  You can contact me at [sahit.berisha11@gmail.com](mailto:sahit.berisha11@gmail.com)
+- 🌍 I'm based in Kosova
+- 💻 I love writing code and learn anythings about it
+- 🌱 I’m currently learning design patterns
+- 🥅 2022 Goals: Learn more about web3
+- ⚡ Fun fact: I'm really good at table tennis 
 <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 
 
@@ -37,7 +39,9 @@ Programming is a difficult process. Often times you have to sit for hours debugg
 </p>
 
 
-### Find me on 👇
+### Connect with me 👇
+
+
 
 <p align="left"> 
   
