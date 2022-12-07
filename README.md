@@ -20,14 +20,14 @@ Programming is a difficult process. Often times you have to sit for hours debugg
 <p align="left">
 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a" alt="Ubuntu" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=cafe&logoColor=white&color=2bbc8a" alt="Java" /></a>
+  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=coffeescript&logoColor=white&color=2bbc8a" alt="Java" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=springboot&logoColor=white&color=2bbc8a" alt="Spring Boot" /></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a" alt="MySQL" /></a>
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Code-Hibernate-informational?style=flat&logo=hibernate&logoColor=white&color=2bbc8a" alt="Hibernate" /></a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a" alt="Heroku" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" alt="PostgreSQL" /></a>
-  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a" alt="Maven" /></a>
+  <a href="https://maven.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Maven-informational?style=flat&logo=apachemaven&logoColor=white&color=2bbc8a" alt="Maven" /></a>
   <a href="https://gradle.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Gradle-informational?style=flat&logo=gradle&logoColor=white&color=2bbc8a" alt="Gradle" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git" /></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a" alt="Postman" /></a>
