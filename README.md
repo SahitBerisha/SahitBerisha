@@ -7,9 +7,9 @@ A meticulous backend Java Developer
 Programming is a difficult process. Often times you have to sit for hours debugging or solving a problem. To me, there is nothing that beats the feeling of finally solving 'that' problem. And in solving that problem, I inspire myself to move on to the next one.
 
 - 🌍 I'm based in Kosova
-- 💻 I love writing code and learn anythings about it
+- 💻 I love writing code and learning anything about it
 - 🌱 I’m currently learning design patterns
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I'm really good at table tennis 
 <img align="right" alt="GIF" src="code.gif?raw=true" width="500" height="320" />
 
@@ -47,7 +47,7 @@ Programming is a difficult process. Often times you have to sit for hours debugg
   
   <a href="https://www.github.com/SahitBerisha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/sahitberisha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://www.twitter.com/sahitBerisha11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+  <a href="https://www.twitter.com/sahitBerisha11" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=X&logoColor=fff" /></a>
 
 </p>
 
